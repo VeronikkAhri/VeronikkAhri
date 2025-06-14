@@ -1,8 +1,4 @@
 <!-- Banner (replace with your own image or keep as a placeholder!) -->
-<p align="center">
-  <img src="https://placehold.co/700x150/pink/white?text=Welcome+to+my+Kawaii+World!+🌸" alt="kawaii banner" />
-</p>
-
 <h1 align="center">Hi, I'm Veronika! <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="40"></h1>
 
 <p align="center">
@@ -55,10 +51,3 @@ To create super cute, user-friendly, and magical digital experiences that make t
   <b>Let's make the digital world as cute and magical as possible! 🌈✨</b>
 </p>
 
-<!--
-Optional: Add social links!
-<p align="center">
-  <a href="https://twitter.com/VeronikkAhri"><img src="https://img.shields.io/badge/Twitter-%23FF69B4.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23FFC0CB.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
--->
